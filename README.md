@@ -23,9 +23,19 @@ This project demonstrates the **complete ML workflow**: exploratory data analysi
 - **Matplotlib, Seaborn** – data visualization (EDA)  
 - **Scikit-learn** – ML models and evaluation
 - **joblib** – Deployment
+
 ---
 
 ## ▶️ How to Run
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/KareemMaged/Laptop_Price_Predictor-Machine-Learning-Project.git](https://github.com/Kareem-Maged/Laptop_Price_Predictor-Machine-Learning-Project)
+```bash
+# 1. Clone this repository
+git clone https://github.com/Kareem-Maged/Laptop_Price_Predictor-Machine-Learning-Project.git
+
+# 2. Navigate to the folder
+cd Laptop_Price_Predictor-Machine-Learning-Project
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. Run the notebook
+jupyter notebook Laptop_Price_Predictor.ipynb
