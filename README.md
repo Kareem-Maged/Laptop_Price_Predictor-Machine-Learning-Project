@@ -10,7 +10,7 @@ This project demonstrates the **complete ML workflow**: exploratory data analysi
   - Data cleaning and handling missing values  
   - Visualization of categorical and numerical features  
   - Correlation analysis between specs and price  
-- Applied **data preprocessing** with One-Hot Encoding and feature scaling  
+- Applied **data preprocessing** and handeled outliers  
 - Engineered features to improve model performance  
 - Trained and tested regression models for price prediction  
 - Evaluated models using metrics such as **R², MSE, and MAE**  
